@@ -6,6 +6,7 @@ foreach($arr as $value){
 }
 $html .= "</div>"; 
 echo "adding a line";
+echo "adding another line";
 ?>
 
 <script type="text/javascript">     
